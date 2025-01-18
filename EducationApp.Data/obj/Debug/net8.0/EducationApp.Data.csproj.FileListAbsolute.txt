@@ -1,0 +1,17 @@
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Data.deps.json
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Data.runtimeconfig.json
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Data.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Data.pdb
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Core.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\bin\Debug\net8.0\EducationApp.Core.pdb
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.csproj.AssemblyReference.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.AssemblyInfoInputs.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.AssemblyInfo.cs
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\Educatio.C7E2B848.Up2Date
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\refint\EducationApp.Data.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.pdb
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\EducationApp.Data.genruntimeconfig.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Data\obj\Debug\net8.0\ref\EducationApp.Data.dll

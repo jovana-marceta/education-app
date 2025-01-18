@@ -1,0 +1,14 @@
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\bin\Debug\net8.0\EducationApp.Core.deps.json
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\bin\Debug\net8.0\EducationApp.Core.runtimeconfig.json
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\bin\Debug\net8.0\EducationApp.Core.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\bin\Debug\net8.0\EducationApp.Core.pdb
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.csproj.AssemblyReference.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.AssemblyInfoInputs.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.AssemblyInfo.cs
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\refint\EducationApp.Core.dll
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.pdb
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\EducationApp.Core.genruntimeconfig.cache
+C:\Users\PC\projects\eudaction-app\EducationApp.Core\obj\Debug\net8.0\ref\EducationApp.Core.dll
