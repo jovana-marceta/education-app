@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJugagu09YoAAipFJ/TIBgyBDlqERsL2M6zWnSiqA56sapeaZGdc2vUctp09lEu4gjUYSbpdUBZSKL4UGlCFKA==",
+  "dgSpecHash": "2Cd1N+O+HEyIl+/5pzZxilVFYN0butvm3h4xLMOQ/tEuEuTXIP7MUwx3VfZeyI4Q3Xo/ZpD08Q5a1GgUj/biNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.12.0\\azure.identity.1.12.0.nupkg.sha512",

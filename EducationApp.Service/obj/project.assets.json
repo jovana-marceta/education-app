@@ -3251,11 +3251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\EducationApp.Service.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\EducationApp.Service.csproj",
       "projectName": "EducationApp.Service",
-      "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\EducationApp.Service.csproj",
+      "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\EducationApp.Service.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\obj\\",
+      "outputPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3272,11 +3272,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj": {
-              "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj"
+            "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj"
             },
-            "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj": {
-              "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj"
+            "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj": {
+              "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj"
             }
           }
         }

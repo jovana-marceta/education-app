@@ -5079,11 +5079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.API\\EducationApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\projects\\education-app\\EducationApp.API\\EducationApp.API.csproj",
       "projectName": "EducationApp.API",
-      "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.API\\EducationApp.API.csproj",
+      "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.API\\EducationApp.API.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.API\\obj\\",
+      "outputPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5100,14 +5100,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj": {
-              "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj"
+            "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj"
             },
-            "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj": {
-              "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj"
+            "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj": {
+              "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj"
             },
-            "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\EducationApp.Service.csproj": {
-              "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\EducationApp.Service.csproj"
+            "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\EducationApp.Service.csproj": {
+              "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\EducationApp.Service.csproj"
             }
           }
         }

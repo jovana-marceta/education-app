@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFo4qlDZqPVORRPKpOQ/HOg826Ygf8t9ZcyIFy0mqP4i5S5YVwryV2owPcyKgW7h3Mvg/Te4Rdu0IsZHEOup4A==",
+  "dgSpecHash": "YxwSjKfTiV03wpxpbKGQ+uQvgR+46620ky/GgDKoetq+Op36UA/cLehtu9r2DnyHLqGQk2iPBxKecSsc1nSIQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Service\\EducationApp.Service.csproj",
+  "projectFilePath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Service\\EducationApp.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.43.0\\azure.core.1.43.0.nupkg.sha512",

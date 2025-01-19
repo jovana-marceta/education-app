@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj": {}
+    "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj": {
+    "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj",
         "projectName": "EducationApp.Core",
-        "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj",
+        "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj": {
+    "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj",
         "projectName": "EducationApp.Data",
-        "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\EducationApp.Data.csproj",
+        "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\EducationApp.Data.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\projects\\eudaction-app\\EducationApp.Core\\EducationApp.Core.csproj"
+              "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj": {
+                "projectPath": "C:\\Users\\PC\\projects\\education-app\\EducationApp.Core\\EducationApp.Core.csproj"
               }
             }
           }

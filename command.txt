@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=DESKTOP-F7RB23M\SQLEXPRESS01;Database=EducationAppDB;Integrated Security=SSPI;MultipleActiveResultSets=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Entities -d
